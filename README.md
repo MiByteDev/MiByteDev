@@ -1,5 +1,5 @@
 ## Olá, seja bem-vindo(a) ao meu perfil!👋
-Meu nick é MiByte, sou um desenvolvedor novo porém amo essa área e quero ter um aprendizado contínuo. Aqui no meu perfil do GitHub, você encontrará alguns dos projetos que tenho trabalhado (aceito qualquer tipo de ajuda, observações e entre outros para o meu aprendizado.), além de informações sobre meus gostos, interesses e experiências.
+Meu nick é MiByte, sou um desenvolvedor novo porém amo essa área e quero ter um aprendizado contínuo. Aqui no meu perfil do GitHub, você encontrará alguns dos projetos que tenho trabalhado, além de informações sobre meus gostos, interesses e experiências.
 
 ## 🔭 Sobre mim
 Atualmente, estou estudando Python, JavaScript e Java. Além disso, estou sempre em busca de novas oportunidades de aprendizado.
